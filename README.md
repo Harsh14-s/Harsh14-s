@@ -1,4 +1,52 @@
-## Hi there 👋
+<h1 align="center">Harsh Shukla</h1>
+<p align="center">
+  <b>B.Tech Computer Science Student | DSA | AI/ML</b>
+</p>
+
+---
+
+## About Me
+
+<table>
+<tr>
+<td width="70%">
+
+- Computer Science undergraduate focused on  
+  **Data Structures & Algorithms (C++)**
+- Interested in **Artificial Intelligence, Machine Learning, and Intelligent Systems**
+- Experience building **React + Tailwind** web projects
+- Actively preparing for **software engineering internships and placements**
+
+</td>
+<td width="30%" align="center">
+
+<img src="https://illustrations.popsy.co/blue/programming.svg" width="200"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Current Focus
+
+<table>
+<tr>
+<td width="70%">
+
+- Practicing **DSA problems** (LeetCode, Striver Sheet)
+- Strengthening **problem-solving** and core CS fundamentals
+- Developing **practical projects** in Web and AI/ML
+
+</td>
+<td width="30%" align="center">
+
+<img src="https://illustrations.popsy.co/blue/learning.svg" width="200"/>
+
+</td>
+</tr>
+</table>
+
 ## Technical Skills
 
 ### Languages
